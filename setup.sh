@@ -1,6 +1,6 @@
 #! /bin/bash
 
-pip install jupyter notebook
+pip3 install jupyter notebook
 
 mkdir /data
 mkdir /snapshots
